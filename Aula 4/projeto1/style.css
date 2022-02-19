@@ -1,0 +1,14 @@
+.opcao-menu {
+padding: 5px;
+}
+
+main {
+/*background-color: rgb(102, 255, 0); */
+background-image: url("./bannerpc.jpg");
+background-size: cover;
+}
+
+footer {
+background-color:rgb(64, 212, 96);
+
+}
